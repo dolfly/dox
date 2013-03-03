@@ -9,6 +9,9 @@
       "github-flavored-markdown": ">= 0.0.1"
     , "commander": "0.6.1"
   }
+  , "scripts": {
+      "test": "make test"
+  }
   , "devDependencies": {
       "mocha": "*"
     , "should": "*"
